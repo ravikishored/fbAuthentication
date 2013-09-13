@@ -163,6 +163,6 @@ LOGGING = {
 
 
 REDIRECT_URI = "http://127.0.0.1:8000/get-code"    #local
-APP_ID = "146989692178587"
-APP_SECRET = "c68d9f33a2d897664a0fa591546ffd68"
+APP_ID = ""
+APP_SECRET = ""
 
