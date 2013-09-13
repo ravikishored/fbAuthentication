@@ -16,11 +16,11 @@ To Setup the Project:
 	
 	2) Create app 
 
-	2) save the app id, app secret and set redirect_uri
+	3) save the app id, app secret and set redirect_uri
 
-	3) Go to settings.py
+	4) Go to settings.py
 
-	4) assign the saved variables values to REDIRECT_URI, APP_ID, APP_SECRET 
+	5) assign the saved variables values to REDIRECT_URI, APP_ID, APP_SECRET 
 
 
 Run the server:
